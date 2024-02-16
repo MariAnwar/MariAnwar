@@ -1,8 +1,13 @@
 # Hi Everyone, I'm Maria 👋
 A Data Science Student at the Faculty of Computers and Data Science, Alexandria University, Egypt.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="marianwar" /></p>
+
+<p align="left">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianwar&show_icons=true&theme=dracula&bg_color=000000&locale=en&layout=compact" alt="marianwar" /></p>
 
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-anwar-483953265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-anwar-483953265/" height="30" width="40" /></a>
@@ -14,7 +19,7 @@ A Data Science Student at the Faculty of Computers and Data Science, Alexandria 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=dracula&bg_color=000000&locale=en" alt="marianwar" /></p>
+
 
 
 <!---
