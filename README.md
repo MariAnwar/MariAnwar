@@ -1,11 +1,11 @@
 # Hi Everyone, I'm Maria 👋
 A Data Science Student at the Faculty of Computers and Data Science, Alexandria University, Egypt.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&title_color=ff47a9&text_color=292929&bg_color=ffffff&locale=en" alt="marianwar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=7f01ad&text_color=292929&bg_color=ffffff&locale=en" alt="marianwar" /></p>
 
 <p align="left">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianwar&show_icons=true&theme=radical&title_color=ff47a9&text_color=292929&bg_color=ffffff&locale=en&layout=compact" alt="marianwar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianwar&show_icons=true&theme=synthwave&title_color=7f01ad&text_color=292929&bg_color=ffffff&locale=en&layout=compact" alt="marianwar" /></p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
