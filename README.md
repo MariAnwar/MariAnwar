@@ -6,8 +6,6 @@ A Data Science Student at the Faculty of Computers and Data Science, Alexandria 
 <p align="left">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianwar&show_icons=true&theme=dracula&bg_color=000000&locale=en&layout=compact" alt="marianwar" /></p>
-
-<p align="left"></p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
