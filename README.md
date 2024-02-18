@@ -7,12 +7,12 @@ A Data Science Student at the Faculty of Computers and Data Science, Alexandria 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en&layout=compact" alt="marianwar" /></p>
   
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-anwar-483953265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-anwar-483953265/" height="30" width="40" /></a>
 
 <a href="mailto:mariaanwar2003@gmail.com" target="_blank"><img align="center" src="![image](https://github.com/MariAnwar/MariAnwar/assets/139545911/3da322fb-3a39-4694-a7b1-623c621431af)
-" alt="Gmail" height="30" width="40" /></a>
+" alt="Gmail" height="30" width="40" /></a> -->
 
 </p>
 
