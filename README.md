@@ -1,8 +1,8 @@
 # Hi Everyone, I'm Maria 👋
 ### Data Science Student at the Faculty of Computers and Data Science, Alexandria University, Egypt
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en" alt="Maria's GitHub Stats" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marianwar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en" alt="Maria's GitHub Stats" />
