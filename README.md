@@ -4,7 +4,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en" alt="Maria's GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en" alt="Maria's GitHub Stats" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en&layout=compact" alt="Maria's Top Languages" />
 </p>
   
