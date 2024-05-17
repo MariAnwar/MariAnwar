@@ -1,7 +1,7 @@
 # Hi Everyone, I'm Maria 👋
 ### Data Science Student at the Faculty of Computers and Data Science, Alexandria University, Egypt
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en" alt="Maria's GitHub Stats" />
 </p>
 <p align="center">
@@ -43,6 +43,15 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   </a>
 </p>
 
