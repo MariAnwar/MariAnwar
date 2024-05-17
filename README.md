@@ -1,5 +1,5 @@
 # Hi Everyone, I'm Maria 👋
-Data Science Student at the Faculty of Computers and Data Science, Alexandria University, Egypt
+## Data Science Student at the Faculty of Computers and Data Science, Alexandria University, Egypt
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en" alt="Maria's GitHub Stats" />
@@ -13,7 +13,7 @@ Data Science Student at the Faculty of Computers and Data Science, Alexandria Un
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:mariaanwar2003@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
