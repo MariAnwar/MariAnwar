@@ -14,9 +14,9 @@
   <a href="https://linkedin.com/in/maria-anwar-483953265/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:mariaanwar2003@gmail.com" target="_blank">
+<!--   <a href="mailto:mariaanwar2003@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/MariAnwar/MariAnwar/assets/139545911/3da322fb-3a39-4694-a7b1-623c621431af" alt="Gmail" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
