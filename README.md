@@ -1,7 +1,9 @@
 # Hi, I'm Maria 👋  
-### Data Science Graduate | Python • Machine Learning • Data Analysis
+### Data Scientist |  Machine Learning • Data Analysis
 
-I’m a data-focused problem solver with hands-on experience in transforming raw data into structured insights and predictive solutions.  
+I'm a 2025 Data Science Graduate from the Faculty of Computers and Data Science, Alexandria University.
+
+A Data Scientist (problem solver) with hands-on experience in transforming raw data into structured insights and predictive solutions.  
 My work focuses on building reliable data pipelines, performing deep analysis, and developing models that support real-world decision-making.
 
 ---
@@ -15,19 +17,10 @@ My work focuses on building reliable data pipelines, performing deep analysis, a
 
 ---
 
-## 🔷 Featured Projects
-- **RAG Chatbot** — Document-based question answering system using LLM pipelines  
-- **Time Series Forecasting** — Internet traffic prediction using SARIMA and statistical analysis  
-- **Inventory Management Dashboard** — Business-focused analytics solution built in Excel  
-- **MRI Acceleration (PRIORI)** — Deep learning-based image reconstruction project  
-- **Adult Census Income Analysis** — End-to-end data preprocessing and analysis  
-- **Salary Prediction Model** — Machine learning pipeline for structured data prediction  
-
----
 
 ## 🔷 Tech Stack
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
+**Languages:** Python, SQL, Java, R
+**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch 
 **Data Analysis:** EDA, Feature Engineering, Data Cleaning  
 **Visualization:** Matplotlib, Seaborn  
 **Tools:** Jupyter, Streamlit, Excel  
