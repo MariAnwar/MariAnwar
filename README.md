@@ -1,65 +1,50 @@
-# Hi Everyone, I'm Maria 👋
-### Data Science Graduate from the Faculty of Computers and Data Science, Alexandria University, Egypt
+# Hi, I'm Maria 👋  
+### Data Science Graduate | Python • Machine Learning • Data Analysis
 
+I’m a data-focused problem solver with hands-on experience in transforming raw data into structured insights and predictive solutions.  
+My work focuses on building reliable data pipelines, performing deep analysis, and developing models that support real-world decision-making.
+
+---
+
+## 🔷 What I Do
+- Clean, preprocess, and validate complex datasets  
+- Perform exploratory data analysis (EDA) to uncover patterns and trends  
+- Build and evaluate machine learning models  
+- Work with time series data and forecasting techniques  
+- Develop interactive data applications and dashboards  
+
+---
+
+## 🔷 Featured Projects
+- **RAG Chatbot** — Document-based question answering system using LLM pipelines  
+- **Time Series Forecasting** — Internet traffic prediction using SARIMA and statistical analysis  
+- **Inventory Management Dashboard** — Business-focused analytics solution built in Excel  
+- **MRI Acceleration (PRIORI)** — Deep learning-based image reconstruction project  
+- **Adult Census Income Analysis** — End-to-end data preprocessing and analysis  
+- **Salary Prediction Model** — Machine learning pipeline for structured data prediction  
+
+---
+
+## 🔷 Tech Stack
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
+**Data Analysis:** EDA, Feature Engineering, Data Cleaning  
+**Visualization:** Matplotlib, Seaborn  
+**Tools:** Jupyter, Streamlit, Excel  
+
+---
+
+## 🔷 Connect With Me
+<a href="https://linkedin.com/in/maria-anwar-483953265/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+---
+
+## 🔷 Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marianwar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en&rank_icon=github"/>
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianwar&show_icons=true&theme=synthwave&title_color=4b0082&text_color=292929&bg_color=ffffff&locale=en&layout=compact" alt="Maria's Top Languages" /</p>
-  
-<p align="left">
-  <a href="https://linkedin.com/in/maria-anwar-483953265/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-<!--   <a href="mailto:mariaanwar2003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/MariAnwar/MariAnwar/assets/139545911/3da322fb-3a39-4694-a7b1-623c621431af" alt="Gmail" height="30" width="40" />
-  </a> -->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-</p>
-
 
 
 
