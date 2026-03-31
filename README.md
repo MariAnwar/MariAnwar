@@ -20,7 +20,7 @@ My work focuses on building reliable data pipelines, performing deep analysis, a
 
 ## 🔷 Tech Stack
 **Languages:** Python, SQL, Java, R
-**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch 
+**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch    
 **Data Analysis:** EDA, Feature Engineering, Data Cleaning  
 **Visualization:** Matplotlib, Seaborn  
 **Tools:** Jupyter, Streamlit, Excel  
